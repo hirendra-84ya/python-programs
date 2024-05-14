@@ -4,7 +4,7 @@
 
 <h1>Let me explain how can you run this code on your computer</h1><br>
 - First Install python on your computer<br> 
-- All the installation of python program are available online <br>
+- All the installation procedure of python program are available online <br>
 - Then just download or clone this project and run it in your command line .
 Using below Command <br>
 <code> python -u rock-paper-scissors.py
